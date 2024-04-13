@@ -1,4 +1,8 @@
+#ifndef Line_Sens_H
+#define Line_Sens_H
+
 #include "Arduino.h"
+
 class LineSens
 {
 public:
