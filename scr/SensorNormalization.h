@@ -1,5 +1,5 @@
-#ifndef Line_Sens_H
-#define Line_Sens_H
+#ifndef Sensor_Normalization_H
+#define Sensor_Normalization_H
 
 #include "Arduino.h"
 
