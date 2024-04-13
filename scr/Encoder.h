@@ -1,4 +1,8 @@
+#ifndef Encoder_H
+#define Encoder_H
+
 #include "Arduino.h"
+
 class Enc {
 
 private:
